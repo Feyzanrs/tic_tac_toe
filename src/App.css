@@ -1,0 +1,30 @@
+/* client/src/App.css */
+.App {
+  text-align: center;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-gap: 5px;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ddd;
+  cursor: pointer;
+}
