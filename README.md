@@ -1,4 +1,4 @@
-# Tic Tac Toe Game Read.me
+# Tic Tac Toe Game 
 
 Welcome to the Tic Tac Toe game repository, a project developed by [Your Name]. The primary goal of this project is to provide users with an enjoyable experience while playing this classic game.
 
